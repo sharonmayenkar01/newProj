@@ -1,5 +1,6 @@
 package newProj;
 
 public class HelloWorld {
-int j
+int i;
+string shr;
 }
